@@ -1,0 +1,10 @@
+<svg id="manajando" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="30" height="30" fill="#9e9e9e"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" clip-path="url(#clip-path)">
+    <path id="medium-circle" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm8.571,8.494L22.205,9.8a.4.4,0,0,0-.154.382v9.633a.391.391,0,0,0,.154.382l1.339,1.309V21.8H16.821v-.278L18.2,20.18c.137-.137.137-.177.137-.382V12l-3.85,9.763h-.519L9.492,12v6.546a.891.891,0,0,0,.251.75l1.8,2.18v.291H6.429v-.291l1.8-2.18a.874.874,0,0,0,.234-.75V10.982a.649.649,0,0,0-.218-.559l-1.6-1.929V8.2h4.972l3.837,8.421L18.834,8.21h4.738v.285Z" fill="#9e9e9e"/>
+  </g>
+</svg>
